@@ -1,0 +1,3 @@
+/Users/gerald/CLionProjects/crystal_match/cmake-build-debug/CMakeFiles/crystal_match.dir
+/Users/gerald/CLionProjects/crystal_match/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gerald/CLionProjects/crystal_match/cmake-build-debug/CMakeFiles/rebuild_cache.dir
