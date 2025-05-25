@@ -4,7 +4,7 @@
 
 class Ball {
 public:
-    static constexpr float speed = 0.2f;
+    static constexpr float speed = 0.1f;
     Ball(float x, float y);
     void update(const Paddle& paddle);
     void draw(sf::RenderWindow& window) const;
